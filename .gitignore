@@ -1,0 +1,15 @@
+README.md
+data.txt
+proxy.txt
+.env
+iframe.json
+key.json
+wallet.json
+user_agents.json
+session/
+bot/__pycache__/
+bot/utils/__pycache__/
+bot/core/__pycache__/
+bot/config/__pycache__/
+bot/exceptions/__pycache__/
+pyarmor_runtime_004829/__pycache__/
