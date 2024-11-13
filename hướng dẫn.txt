@@ -1,0 +1,17 @@
+1. Xem hướng dẫn cài tool python tại: https://t.me/thic_autu/8
+- Tải git tại: https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.2/Git-2.47.0.2-64-bit.exe
+- Cài đặt git (cứ next cho tới khi xong) sau đó chuột phải vào thư mục muốn lưu code và chọn "Git Bash Here"
+- Nhập lệnh: git clone https://github.com/hunterhs92/bums.git
+
+2. Tool chỉ chạy trên bản python 3.11.5 những máy đã cài đúng bản python không cần cài lại, nếu máy đã cài python bản khác vui lòng gỡ ra và  cài python 3.11.5 theo link: https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
+-    Khi cài đặt python nhớ tick chọn "add python.exe to PATH"
+
+3. Chạy file run.bat và chờ 3-10 phút tùy tốc độ mạng. khi cài đặt xong sẽ hiện key, vui lòng copy key và liên hệ tele: @nora24320 để active
+
+4. Lưu ý sử dung git clone để tải code về giống video hướng dẫn để không bị lỗi khi chạy file thực thi run.bat (nếu download file có thể bị chạy file run mà nó không hiện lên)
+
+5. File data.txt để chứa danh sách ID profile GPM và proxy.txt để chứa proxy (để tối ưu nên sắp xếp proxy trùng với id GPM). Lưu ý không để khoảng trắng ở cuối file data hay proxy.(proxy format: ip:port:username:password)
+
+6. Chỉnh sửa link ref và link channel trong file .env (Mọi thông số cấu hình đề để trong file .env, đọc kỹ để thiết lập cho phù hợp với máy và mạng của bạn)
+
+7. Hướng dẫn cập nhật tool lên bản mới nhất: https://t.me/thic_autu/21
