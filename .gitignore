@@ -2,6 +2,7 @@ README.md
 data.txt
 proxy.txt
 .env
+.venv/
 iframe.json
 key.json
 wallet.json
