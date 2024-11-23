@@ -6,6 +6,7 @@ proxy.txt
 iframe.json
 key.json
 wallet.json
+wallet.xlsx
 user_agents.json
 session/
 bot/__pycache__/
