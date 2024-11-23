@@ -8,6 +8,7 @@ key.json
 wallet.json
 wallet.xlsx
 user_agents.json
+connect_wallet_failed.txt
 session/
 bot/__pycache__/
 bot/utils/__pycache__/
